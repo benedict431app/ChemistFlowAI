@@ -9,6 +9,7 @@ dependencies = [
     "opencv-python-headless>=4.12.0.88",
     "pandas>=2.3.3",
     "pillow>=12.0.0",
+    "plotly>=6.5.0",
     "psycopg2-binary>=2.9.11",
     "pyzbar>=0.1.9",
     "qrcode>=8.2",
