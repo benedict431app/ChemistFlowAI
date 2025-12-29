@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChemistFlow - Pharmacy Management System
 
 A comprehensive Python-based pharmacy management system with AI chat assistant, built with Streamlit and PostgreSQL.
@@ -175,3 +176,6 @@ For issues or questions, contact the pharmacy administrator or use the AI Assist
 ---
 
 **ChemistFlow** - Your Complete Pharmacy Management Solution 💊
+=======
+# ChemistFlowAI
+>>>>>>> e794495d24dbc9525298d9b30a2e04371d272a5e
